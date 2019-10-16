@@ -11,4 +11,5 @@
 * [3 字符串、向量和数组](Chapter2/README.md)
     * [3.1 命名空间的using声明](Chapter2/命名空间的using声明.md)
     * [3.2 标准库类型string](Chapter2/标准库类型string.md)
+    * [3.3 标准库类型vector](Chapter2/标准库类型vector.md)
 
